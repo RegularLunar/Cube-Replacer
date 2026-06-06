@@ -6,14 +6,17 @@
 ![Stars](https://img.shields.io/github/stars/RegularLunar/Cube-Replacer?style=for-the-badge&color=f59e0b) 
 ![Downloads](https://img.shields.io/github/downloads/RegularLunar/Cube-Replacer/total?style=for-the-badge&color=0ea5e9&label=Downloads) 
 ![Last Commit](https://img.shields.io/github/last-commit/RegularLunar/Cube-Replacer?style=for-the-badge&color=6366f1) 
+
 ---
 
 ### Features
 - Replaces the default Cube with a Portal Weighted Cube in Blender.
-- 
+
 ---
+
 ### Support
 Issues and PRs are welcome. For major changes, please open an [issue](https://github.com/RegularLunar/Cube-Replacer/issues) first.
 
 ---
+
 <sub>Made with 💜 by [RegularLunar](https://github.com/RegularLunar)</sub>\\\
