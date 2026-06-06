@@ -19,4 +19,4 @@ Issues and PRs are welcome. For major changes, please open an [issue](https://gi
 
 ---
 
-<sub>Made with 💜 by [RegularLunar](https://github.com/RegularLunar)</sub>\\\
+<sub>Made with 💜 by [RegularLunar](https://github.com/RegularLunar)</sub>
