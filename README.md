@@ -10,7 +10,7 @@
 ---
 
 ### Features
-- Replaces the default Cube with a Portal Weighted Cube in Blender.
+- Replaces the default Cube with a [Portal Weighted Cube](https://theportalwiki.com/wiki/Cubes) in Blender.
 
 ---
 
